@@ -1,0 +1,23 @@
+{
+  "id": "base_ui_pack",
+  "name": "Base UI Pack",
+  "version": "1.0.0",
+  "minLauncherVersion": "1.0.0",
+  "description": "A clean, modern starter UI with optional enhancements.",
+  "author": "Semsey Technologies",
+  "ui": {
+    "mainLayout": "ui/layout.xml"
+  },
+  "logic": {
+    "behavior": "logic/behavior.kt"
+  },
+  "assets": {
+    "icon": "assets/icon.png"
+  },
+  "settings": {
+    "blurBackground": true,
+    "roundedCorners": true,
+    "accentColor": "#6200EE",
+    "themeMode": "auto"
+  }
+}

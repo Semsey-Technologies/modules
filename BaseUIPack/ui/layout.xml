@@ -1,0 +1,28 @@
+<layout>
+    <header>
+        <time id="current_time" format="HH:mm" />
+        <date id="current_date" format="EEEE, MMM d" />
+        <battery id="battery_info" showPercentage="true" />
+    </header>
+
+    <quickActions>
+        <toggle id="wifi_toggle" icon="ic_wifi" label="WiFi" />
+        <toggle id="bluetooth_toggle" icon="ic_bluetooth" label="Bluetooth" />
+        <toggle id="flashlight_toggle" icon="ic_flashlight" label="Flashlight" />
+    </quickActions>
+
+    <content id="main_content">
+        <mode id="apps">
+            <appGrid columns="4" />
+        </mode>
+        <mode id="weather">
+            <weatherCard city="current" />
+        </mode>
+        <mode id="notes">
+            <notesWidget />
+        </mode>
+        <mode id="media">
+            <mediaControls />
+        </mode>
+    </content>
+</layout>
