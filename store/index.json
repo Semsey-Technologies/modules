@@ -1,3 +1,12 @@
 {
-  "modules": []
+  "modules": [
+    {
+      "id": "test-module",
+      "name": "Test Module",
+      "version": "1.0.0",
+      "description": "A placeholder module used to test the Module Store connection.",
+      "download": "https://raw.githubusercontent.com/Semsey-Technologies/modules/main/examples/example-desktop-grid/placeholder.zip",
+      "icon": "https://raw.githubusercontent.com/Semsey-Technologies/modules/main/store/icons/test.png"
+    }
+  ]
 }
