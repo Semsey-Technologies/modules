@@ -1,15 +1,14 @@
 {
   "modules": [
-  {
-  "id": "base_ui_pack",
-  "name": "Base UI Pack",
-  "version": "1.0.0",
-  "author": "Semsey Technologies",
-  "description": "A clean, modern starter UI with optional enhancements.",
-  "icon": "https://raw.githubusercontent.com/Semsey-Technologies/modules/main/BaseUIPack/assets/icon.png",
-  "download": "https://raw.githubusercontent.com/Semsey-Technologies/modules/main/BaseUIPack/module.json"
-  "minLauncherVersion": "1.0.0"
-}
-
+    {
+      "id": "base_ui_pack",
+      "name": "Base UI Pack",
+      "version": "1.0.0",
+      "author": "Semsey Technologies",
+      "description": "A clean, modern starter UI with optional enhancements.",
+      "icon": "https://raw.githubusercontent.com/Semsey-Technologies/modules/main/BaseUIPack/assets/icon.png",
+      "download": "https://raw.githubusercontent.com/Semsey-Technologies/modules/main/BaseUIPack.zip",
+      "minLauncherVersion": "1.0.0"
+    }
   ]
 }
