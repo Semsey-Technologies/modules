@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="placeholder">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/examples/example-desktop-grid/placeholder.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
