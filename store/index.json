@@ -7,7 +7,8 @@
       "author": "Semsey Technologies",
       "description": "A clean, modern starter UI with optional enhancements.",
       "icon": "https://raw.githubusercontent.com/Semsey-Technologies/modules/main/BaseUIPack/assets/icon.png",
-      "download": "https://raw.githubusercontent.com/Semsey-Technologies/modules/main/BaseUIPack.zip",
+      "download": "https://raw.githubusercontent.com/Semsey-Technologies/modules/main/BaseUIPack",
+      "entrypoint": "logic/main.lua",
       "minLauncherVersion": "1.0.0"
     }
   ]

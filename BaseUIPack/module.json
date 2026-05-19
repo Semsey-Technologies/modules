@@ -1,0 +1,13 @@
+{
+  "id": "base_ui_pack",
+  "name": "Base UI Pack",
+  "version": "1.0.0",
+  "description": "Cyber-neon launcher base: homescreen grid, swipe-up app drawer, wallpapers, and theme hooks.",
+  "author": "Semsey Technologies",
+  "entrypoint": "logic/main.lua",
+  "wallpapers": [
+    "assets/wallpapers/neon_grid.png",
+    "assets/wallpapers/neon_city.png"
+  ],
+  "minLauncherVersion": "1.0.0"
+}
