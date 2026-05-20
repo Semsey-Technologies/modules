@@ -1,7 +1,0 @@
-{
-  "name": "Base UI Pack",
-  "id": "claudia.base.ui",
-  "version": "1.0.0",
-  "entryPoint": "index.html",
-  "permissions": [ "apps", "wallpaper", "gestures", "layout" ]
-}
