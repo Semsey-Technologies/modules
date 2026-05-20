@@ -1,0 +1,6 @@
+{
+  "id": "base_ui_pack",
+  "name": "Base UI Pack",
+  "version": "1.0.0",
+  "entrypoint": "logic/main.lua"
+}
